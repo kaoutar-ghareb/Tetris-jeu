@@ -1,6 +1,6 @@
 # Tetris en C (SDL3)
 
-Bienvenue dans mon projet Tetris ! Ce jeu a été développé en **langage C** en utilisant la bibliothèque graphique **SDL3**. C'est un projet réalisé dans le cadre de mes études à l'**ISI** pour mettre en pratique les concepts de programmation structurée et de gestion d'interfaces graphiques.
+Bienvenue dans mon projet Tetris ! Ce jeu a été développé en **langage C** en utilisant la bibliothèque graphique **SDL3**. C'est un projet réalisé dans le cadre de mes études pour mettre en pratique les concepts de programmation structurée et de gestion d'interfaces graphiques.
 
 ## Fonctionnalités
 - **Deux modes de difficulté** : Facile (vitesse normale) et Difficile (vitesse accélérée + score doublé).
